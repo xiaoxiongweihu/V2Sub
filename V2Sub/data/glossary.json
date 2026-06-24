@@ -1,0 +1,474 @@
+[
+  {
+    "source": "Agents",
+    "target": "特工"
+  },
+  {
+    "source": "Initiator",
+    "target": "先锋"
+  },
+  {
+    "source": "Sprays",
+    "target": "喷漆"
+  },
+  {
+    "source": "VALORANT",
+    "target": "无畏契约"
+  },
+  {
+    "source": "Corrode",
+    "target": "盐海矿镇"
+  },
+  {
+    "source": "Abyss",
+    "target": "幽邃地窟"
+  },
+  {
+    "source": "Sunset",
+    "target": "日落之城"
+  },
+  {
+    "source": "Lotus",
+    "target": "莲华古城"
+  },
+  {
+    "source": "Pearl",
+    "target": "深海明珠"
+  },
+  {
+    "source": "Split",
+    "target": "霓虹町"
+  },
+  {
+    "source": "Breeze",
+    "target": "微风岛屿"
+  },
+  {
+    "source": "Icebox",
+    "target": "森寒冬港"
+  },
+  {
+    "source": "Ascent",
+    "target": "亚海悬城"
+  },
+  {
+    "source": "Fracture",
+    "target": "裂变峡谷"
+  },
+  {
+    "source": "Haven",
+    "target": "隐世修所"
+  },
+  {
+    "source": "Bind",
+    "target": "源工重镇"
+  },
+  {
+    "source": "Jett",
+    "target": "捷风"
+  },
+  {
+    "source": "Raze",
+    "target": "雷兹"
+  },
+  {
+    "source": "Reyna",
+    "target": "芮娜"
+  },
+  {
+    "source": "Phoenix",
+    "target": "不死鸟"
+  },
+  {
+    "source": "Neon",
+    "target": "霓虹"
+  },
+  {
+    "source": "Sage",
+    "target": "贤者"
+  },
+  {
+    "source": "Cypher",
+    "target": "零"
+  },
+  {
+    "source": "Killjoy",
+    "target": "奇乐"
+  },
+  {
+    "source": "Viper",
+    "target": "蝰蛇"
+  },
+  {
+    "source": "Omen",
+    "target": "幽影"
+  },
+  {
+    "source": "Brimstone",
+    "target": "炼狱"
+  },
+  {
+    "source": "Sova",
+    "target": "猎枭"
+  },
+  {
+    "source": "Breach",
+    "target": "铁臂"
+  },
+  {
+    "source": "Skye",
+    "target": "斯凯"
+  },
+  {
+    "source": "Yoru",
+    "target": "夜露"
+  },
+  {
+    "source": "Astra",
+    "target": "星礈"
+  },
+  {
+    "source": "KAY/O",
+    "target": "KO"
+  },
+  {
+    "source": "Fade",
+    "target": "黑梦"
+  },
+  {
+    "source": "Harbor",
+    "target": "海神"
+  },
+  {
+    "source": "Gekko",
+    "target": "盖克"
+  },
+  {
+    "source": "Deadlock",
+    "target": "钢锁"
+  },
+  {
+    "source": "Iso",
+    "target": "壹决"
+  },
+  {
+    "source": "Clove",
+    "target": "暮蝶"
+  },
+  {
+    "source": "Chamber",
+    "target": "尚博勒"
+  },
+  {
+    "source": "Miks",
+    "target": "迷核"
+  },
+  {
+    "source": "Tejo",
+    "target": "钛狐"
+  },
+  {
+    "source": "Veto",
+    "target": "禁灭"
+  },
+  {
+    "source": "Vyse",
+    "target": "维斯"
+  },
+  {
+    "source": "Waylay",
+    "target": "幻棱"
+  },
+  {
+    "source": "Spike",
+    "target": "包"
+  },
+  {
+    "source": "Plant",
+    "target": "下包"
+  },
+  {
+    "source": "Defuse",
+    "target": "拆包"
+  },
+  {
+    "source": "Ult",
+    "target": "大招"
+  },
+  {
+    "source": "Eco",
+    "target": "保经济"
+  },
+  {
+    "source": "Force Buy",
+    "target": "强起"
+  },
+  {
+    "source": "Save",
+    "target": "保枪"
+  },
+  {
+    "source": "Half Buy",
+    "target": "半起"
+  },
+  {
+    "source": "Full Buy",
+    "target": "全起"
+  },
+  {
+    "source": "Crosshair",
+    "target": "准星"
+  },
+  {
+    "source": "Spray",
+    "target": "压枪"
+  },
+  {
+    "source": "One Tap",
+    "target": "一枪头"
+  },
+  {
+    "source": "Flick",
+    "target": "甩枪"
+  },
+  {
+    "source": "Pre-fire",
+    "target": "提前枪"
+  },
+  {
+    "source": "Wallbang",
+    "target": "穿墙"
+  },
+  {
+    "source": "Entry",
+    "target": "突破"
+  },
+  {
+    "source": "Trade",
+    "target": "补枪"
+  },
+  {
+    "source": "Lurk",
+    "target": "摸点"
+  },
+  {
+    "source": "Anchor",
+    "target": "守点"
+  },
+  {
+    "source": "Retake",
+    "target": "回防"
+  },
+  {
+    "source": "Default",
+    "target": "默认"
+  },
+  {
+    "source": "Heaven",
+    "target": "高台"
+  },
+  {
+    "source": "Hell",
+    "target": "坑里"
+  },
+  {
+    "source": "CT",
+    "target": "防守方家"
+  },
+  {
+    "source": "Spawn",
+    "target": "出生点"
+  },
+  {
+    "source": "Main",
+    "target": "大道"
+  },
+  {
+    "source": "Mid",
+    "target": "中路"
+  },
+  {
+    "source": "Long",
+    "target": "长廊"
+  },
+  {
+    "source": "Short",
+    "target": "小道"
+  },
+  {
+    "source": "Flank",
+    "target": "绕后"
+  },
+  {
+    "source": "Rotate",
+    "target": "转点"
+  },
+  {
+    "source": "Rush",
+    "target": "快冲"
+  },
+  {
+    "source": "Peek",
+    "target": "探头"
+  },
+  {
+    "source": "Swing",
+    "target": "拉枪"
+  },
+  {
+    "source": "Contact",
+    "target": "静音摸进"
+  },
+  {
+    "source": "Ace",
+    "target": "五杀"
+  },
+  {
+    "source": "Clutch",
+    "target": "残局"
+  },
+  {
+    "source": "Thrifty",
+    "target": "经济局翻盘"
+  },
+  {
+    "source": "Flash",
+    "target": "闪"
+  },
+  {
+    "source": "Flashing",
+    "target": "给闪"
+  },
+  {
+    "source": "Pop Flash",
+    "target": "瞬爆闪"
+  },
+  {
+    "source": "Anti-flash",
+    "target": "背闪"
+  },
+  {
+    "source": "Blinded",
+    "target": "被白了"
+  },
+  {
+    "source": "Full Blind",
+    "target": "全白了"
+  },
+  {
+    "source": "Smoke",
+    "target": "给烟"
+  },
+  {
+    "source": "Molly",
+    "target": "火"
+  },
+  {
+    "source": "Stun",
+    "target": "震"
+  },
+  {
+    "source": "Recon",
+    "target": "侦查"
+  },
+  {
+    "source": "Drone",
+    "target": "无人机"
+  },
+  {
+    "source": "Dog",
+    "target": "狗"
+  },
+  {
+    "source": "Orb",
+    "target": "球"
+  },
+  {
+    "source": "TP",
+    "target": "传送"
+  },
+  {
+    "source": "Slow",
+    "target": "减速"
+  },
+  {
+    "source": "Wall",
+    "target": "墙"
+  },
+  {
+    "source": "Classic",
+    "target": "标配"
+  },
+  {
+    "source": "Shorty",
+    "target": "短炮"
+  },
+  {
+    "source": "Frenzy",
+    "target": "狂怒"
+  },
+  {
+    "source": "Ghost",
+    "target": "鬼魅"
+  },
+  {
+    "source": "Bandit",
+    "target": "追猎"
+  },
+  {
+    "source": "Deagle",
+    "target": "正义"
+  },
+  {
+    "source": "Stinger",
+    "target": "蜂刺"
+  },
+  {
+    "source": "Spectre",
+    "target": "骇灵"
+  },
+  {
+    "source": "Bucky",
+    "target": "雄鹿"
+  },
+  {
+    "source": "Judge",
+    "target": "判官"
+  },
+  {
+    "source": "Bulldog",
+    "target": "獠犬"
+  },
+  {
+    "source": "Guardian",
+    "target": "戌卫"
+  },
+  {
+    "source": "Phantom",
+    "target": "幻影"
+  },
+  {
+    "source": "Vandal",
+    "target": "狂徒"
+  },
+  {
+    "source": "Marshal",
+    "target": "飞将"
+  },
+  {
+    "source": "Outlaw",
+    "target": "葬侠"
+  },
+  {
+    "source": "Operator",
+    "target": "冥驹"
+  },
+  {
+    "source": "Ares",
+    "target": "战神"
+  },
+  {
+    "source": "Odin",
+    "target": "奥丁"
+  }
+]

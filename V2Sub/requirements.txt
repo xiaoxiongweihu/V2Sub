@@ -1,0 +1,16 @@
+# 实时语音翻译字幕 - 依赖
+# Python 3.10~3.14（推荐 3.14，需稳定版）
+
+# --- 核心功能 ---
+faster-whisper>=1.0.0          # 本地语音识别（GPU 加速依赖 ctranslate2）
+soundcard>=0.4.3               # 系统音频回环采集（WASAPI loopback）
+openai>=1.30.0                 # OpenAI 兼容大模型翻译
+PyQt5>=5.15.0                  # 桌面 GUI（透明置顶悬浮窗）
+openpyxl>=3.1.0                # Excel 术语表导入导出
+numpy>=1.24.0                  # 音频数据处理
+
+# --- GPU 加速（仅 NVIDIA CUDA 需要）---
+# 如果已有系统级 CUDA Toolkit 12.x 且 cublas64_12.dll 在 PATH 中，可跳过以下三行
+nvidia-cublas-cu12             # cuBLAS 12 运行时（ctranslate2 GPU 推理必需）
+nvidia-cuda-runtime-cu12        # CUDA 12 运行时
+nvidia-cuda-nvrtc-cu12         # CUDA NVRTC 12 编译器
